@@ -2,7 +2,7 @@
 
 Au cours du semestre 5 de nos études, nous devons réaliser en groupe un projet informatique avec un langage de programmation libre. Notre projet consiste à créer un jeu en 3D à l’aide du moteur de jeu Unity. Le langage de programmation que nous utilisons est donc C#.
 Notre objectif est de reproduire un jeu semblable au jeu “Portal”. L’utilisateur doit ressentir une réelle immersion et un réalisme aussi proche que l’original.
-Implémenter un gameplay additionnel en permettant à l’utilisateur de pouvoir manipuler l'élément de feu et de glace.
+Vous devez utiliser des armes à feu et des portes pour trouver un moyen de sortir des salles.
 
 # TECHNOLOGIES
 
